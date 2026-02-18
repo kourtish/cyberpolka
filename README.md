@@ -4,7 +4,7 @@
 
 Полезные ссылки:
 
-[Документация CatBoost:](https://catboost.ai/docs/)
+[Документация CatBoost](https://catboost.ai/docs/)
 
 ## Структура проекта
 
