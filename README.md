@@ -3,7 +3,8 @@
 [Соревнование по машинному обучению](https://ods.ai/competitions/data-fusion2026-cybershelf)
 
 Полезные ссылки:
-[Документация CatBoost:] (https://catboost.ai/docs/)
+
+[Документация CatBoost:](https://catboost.ai/docs/)
 
 ## Структура проекта
 
