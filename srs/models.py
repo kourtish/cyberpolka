@@ -1,6 +1,8 @@
-
 from catboost import CatBoostClassifier
 
+__all__ = [
+    "get_base_CatBoostClassifier"
+]
 
 def get_base_CatBoostClassifier():
     return CatBoostClassifier(
